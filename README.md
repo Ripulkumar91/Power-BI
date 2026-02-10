@@ -16,3 +16,5 @@
 • Monthly / Daily Sales Analysis
 
 • Salesperson Performance Table
+
+<img width="905" height="512" alt="Sales Analysis" src="https://github.com/user-attachments/assets/1522ea9d-dd62-42b8-b4c9-f26d13a9741f" />
